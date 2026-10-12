@@ -1,8 +1,7 @@
-﻿# CONVERSATION MIGRATION CONTEXT — DESIGN VAULT
+# CONVERSATION MIGRATION CONTEXT — WEB INSPO BANK
 
-**Date Migrated:** 2026-09-08 14:38
-**Migrated From:** KR Career Workspace (Wiz / Web Development Channel)
-**Target Project Folder:** C:\Users\atiqk\Desktop\Vibe Code\Design Vault\
+**Date Migrated:** 2026-09-08 14:38 (Renamed 2026-10-12)
+**Target Project Folder:** D:\Web Inspo Bank
 **Owner / User:** King (atiqk)
 
 ---

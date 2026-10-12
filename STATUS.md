@@ -1,16 +1,25 @@
-﻿# STATUS.md — Session Handoff Log
+# STATUS.md — Session Handoff Log
+
+> [!IMPORTANT]
+> **PROJECT IDENTITY & GOVERNANCE DIRECTIVE:**  
+> This project is **Web Inspo Bank** — the personal interactive web design bank & inspiration studio for client and personal projects.  
+> Stored on external drive `D:\Web Inspo Bank` as the canonical master copy.  
+> Runs locally on `http://localhost:3001` via Next.js 15 App Router.
 
 ## Last Updated
-2026-09-08 14:15 by Antigravity
+2026-10-12 15:20 by Antigravity (Gemini 3.8 Flash)
+
+## Active Session
+None
 
 ## Active Branch
-main (git repo initialized)
+`main`
 
 ## Cross-Platform Open Items
 
 - **[ROLE & DIVISION OF LABOR — Cowork & Antigravity]:**
-  - **Claude Cowork (Fable 5.1):** Lead Design Engineer & Component Crafter. When King shares a website reference, screenshot, or video, Cowork crafts the self-contained component in `registry/components/[category]/` following our Bakaus "Quieter UI" and Kowalski tactile micro-interaction standards.
-  - **Antigravity (Gemini 3.8 Flash):** Local Runtime & Test Harness. Runs the local dev server (`npm run dev` on port 3001), runs Chrome DevTools visual audits, verifies static builds (`npm run build`), and manages clean git operations.
+  - **Claude Cowork (Claude Opus 5.5):** Lead Design Engineer & Component Crafter. When you share a website reference, screenshot, or video, Cowork crafts the self-contained component in `registry/components/[category]/` adhering to Bakaus "Quieter UI" and Kowalski tactile micro-interaction standards.
+  - **Antigravity (Gemini 3.8 Flash):** Local Runtime & Test Harness. Runs the local dev server (`npm run dev` on port 3001), runs visual audits, verifies static builds (`npm run build`), and manages clean git operations.
 
 - **[COMPONENT REGISTRY PROTOCOL]:**
   - Every new design inspiration component is added to `registry/components.ts`.
@@ -21,6 +30,14 @@ main (git repo initialized)
 
 ## Session History
 
+### [Antigravity · Gemini 3.8 Flash] 2026-10-12 15:20
+- **Completed:**
+  - Renamed project from `Design Vault` to **`Web Inspo Bank`** per user's creative vision (personal design bank and inspiration collection for client & personal websites).
+  - Modernized `package.json`, `README.md`, `CLAUDE.md`, and `.agents/AGENTS.md` to October 2026 canonical governance (retiring Fable 5.1 in favor of Claude Opus 5.5 in Cowork).
+  - Verified repository on `D:\Web Inspo Bank` with clean Git on `main`.
+- **Key Decisions & Why:**
+  - **Decision:** Rename to `Web Inspo Bank`. | **Why:** Directly captures the user's mental model ("personal design bank for websites") while eliminating confusion with static archives.
+
 ### [Antigravity] 2026-09-08 14:15
 - **Model used:** Gemini 3.8 Flash
 - **Completed:**
@@ -30,8 +47,6 @@ main (git repo initialized)
     1. `AppleBlurFadeText`: Progressive blur-to-focus typography entrance animation.
     2. `FloatingGlassNavbar`: Frosted-glass floating pill nav with tactile hover interactions and mobile toggle.
     3. `GlowBentoCard`: Mouse-tracking radial border glow with senior Bakaus typography and optical checkmark hierarchy.
-  - **Configured Multi-Tool System:** Added `STATUS.md`, `CLAUDE.md`, and `.agents/AGENTS.md` for seamless collaboration between Claude Cowork (Fable 5.1) and Antigravity.
+  - **Configured Multi-Tool System:** Added `STATUS.md`, `CLAUDE.md`, and `.agents/AGENTS.md` for seamless collaboration.
 - **Key Decisions & Why:**
-  - **Decision:** Build Design Vault as an independent standalone project rather than inside KR Career. | **Alternatives rejected:** Embedding inside KR Career or storing static files in folders. | **Why:** Separation of Concerns. Design Vault is a universal creative powerhouse for all current and future projects (KR Career, personal side projects, client SaaS) without polluting Kredit Rakyat's underwriting codebase. | **Reference:** User discussion 2026-09-08.
-- **Next Steps:**
-  - Complete npm install, verify build, launch local dev server on `http://localhost:3001`, and showcase to King.
+  - **Decision:** Build as an independent standalone project rather than inside KR Career. | **Alternatives rejected:** Embedding inside KR Career or storing static files in folders. | **Why:** Separation of Concerns. Universal creative powerhouse for all current and future projects without polluting financial codebase.

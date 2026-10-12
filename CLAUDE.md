@@ -1,4 +1,4 @@
-﻿# CLAUDE.md — Design Vault Instructions
+# CLAUDE.md — Web Inspo Bank Instructions
 
 ## Scope Tag Legend
 - `[SYNC]` = Universal preference or pipeline standard.
@@ -7,10 +7,11 @@
 
 ---
 
-## Role & Mission: Lead Design Engineer (Claude Cowork + Fable 5.1)  [COWORK ONLY]
-- In this workspace, **Claude Cowork (running Fable 5.1)** is recognized as the **Lead Web Builder & Design Engineer** (#1 on LMSYS WebDev Arena).
+## Role & Mission: Lead Design Engineer (Claude Cowork + Claude Opus 5.5)  [COWORK ONLY]
+- In this workspace, **Claude Cowork (running Claude Opus 5.5)** is the **Lead Web Builder & Design Engineer**.
 - Cowork's responsibility is authoring high-craft UI layouts, visual components, Tailwind CSS styling, and Framer Motion dynamics.
-- **Antigravity** serves as the Local Runtime & Quality Gatekeeper (running `npm run dev` on port 3001, executing Chrome DevTools visual audits, verifying builds, and running git pushes).
+- **Antigravity** serves as the Local Runtime & Quality Gatekeeper (running `npm run dev` on port 3001, executing visual audits, verifying builds, and running git pushes).
+- At session start, automatically absorb `STATUS.md` to pick up the active state and queued additions.
 
 ---
 
@@ -36,8 +37,8 @@
 
 ---
 
-## How to Add New Inspirations to Design Vault  [COWORK ONLY]
-When King asks to recreate, extract, or craft a new design element from a website:
+## How to Add New Inspirations to Web Inspo Bank  [COWORK ONLY]
+When you share a website reference, screenshot, or video to add to the bank:
 1. Create a self-contained component in `registry/components/[category]/[ComponentName].tsx`.
 2. Ensure the component is modular, fully typed with TypeScript, and uses Tailwind CSS + Framer Motion.
 3. Register the component in `registry/components.ts`:
@@ -48,4 +49,4 @@ When King asks to recreate, extract, or craft a new design element from a websit
 
 ## Response Formatting  [COWORK ONLY]
 - Close replies with a short, glanceable conclusion (`**Bottom line:**` or `**Next step:**`).
-- Mirror King''s language (clean English for English prompts, natural Malaysian corporate register for Malay/Manglish).
+- Address the user directly as "you" (never use historical third-party tags in direct replies).

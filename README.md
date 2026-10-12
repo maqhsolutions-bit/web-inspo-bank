@@ -1,6 +1,6 @@
-﻿# Design Vault — Living Component & Inspiration Studio
+# Web Inspo Bank — Living Component & Inspiration Studio
 
-A private, interactive web application and design swipe file. Every design inspiration, animation, navbar, bento grid, or interactive widget is stored as a living, self-contained React + Tailwind + Framer Motion component.
+A private, interactive web application and design inspiration bank. Every design reference, animation, navbar, bento grid, or interactive widget is stored as a living, self-contained React + Tailwind + Framer Motion component ready to drop into client websites or personal projects.
 
 ---
 
@@ -19,11 +19,11 @@ http://localhost:3001
 
 ---
 
-## What Was Built in Design Vault
+## What Was Built in Web Inspo Bank
 
 1. **Standalone Architecture & Multiplatform Handoff:**
-   - Isolated at `C:\Users\atiqk\Desktop\Vibe Code\Design Vault\` (zero pollution to Kredit Rakyat's underwriting codebase).
-   - Equipped with `STATUS.md`, `CLAUDE.md`, and `.agents/AGENTS.md` so Claude Cowork (Fable 5.1) and Antigravity can collaborate seamlessly on design components.
+   - Isolated at `D:\Web Inspo Bank` (and local `Web Inspo Bank`).
+   - Equipped with `STATUS.md`, `CLAUDE.md`, and `.agents/AGENTS.md` so Claude Cowork (Opus 5.5) and Antigravity can collaborate seamlessly on design components.
 
 2. **Interactive Showcase Features:**
    - **Real-Time Interactive Canvas:** Every component is rendered live with real hover states, animations, and clickable controls.
@@ -32,7 +32,7 @@ http://localhost:3001
    - **One-Click Code & Prompt Copying:**
      - **View Code:** Opens a clean, dark modal with full syntax-highlighted TSX code.
      - **Copy Code:** Copies clean, production-ready Tailwind + Framer Motion TSX to your clipboard.
-     - **Copy for AI:** Generates a pre-calibrated prompt ready to paste into Claude Cowork (Fable 5.1) or Antigravity to build it into your projects.
+     - **Copy for AI:** Generates a pre-calibrated prompt ready to paste into Claude Cowork (Opus 5.5) or Antigravity to build it into your projects.
 
 3. **Seeded with 3 Award-Winning Components:**
    - **AppleBlurFadeText** (*Text Animations*): Progressive word-by-word blur-to-focus typography entrance animation with spring easing and a live replay button.
@@ -41,19 +41,16 @@ http://localhost:3001
 
 4. **Clean Git Initialization & Pre-Push Build Check:**
    - `npm run build` compiled 100% cleanly (4/4 static pages, zero type errors).
-   - Initialized Git on branch `main` with Conventional Commit:
-     ```bash
-     commit 1042c2a - feat(vault): initialize design vault living component and inspiration showcase
-     ```
+   - Initialized Git on branch `main`.
 
 ---
 
-## Tri-Model Division of Labor
+## Multi-Platform Division of Labor
 
-This workspace is designed for seamless cross-platform collaboration between **Claude Cowork (Fable 5.1)** and **Antigravity (Gemini 3.8 Flash)**:
+This workspace is designed for seamless cross-platform collaboration between **Claude Cowork (Claude Opus 5.5)** and **Antigravity (Gemini 3.8 Flash)**:
 
-1. **Claude Cowork (running Fable 5.1):**
-   - Lead Design Engineer (#1 on LMSYS WebDev Arena).
+1. **Claude Cowork (running Claude Opus 5.5):**
+   - Lead Design Engineer & Master Architect.
    - Authors new components in `registry/components/[category]/[ComponentName].tsx`.
    - Applies Bakaus "Quieter UI" and Kowalski tactile micro-interaction standards.
 

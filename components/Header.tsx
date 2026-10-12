@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React from "react";
 import { Sparkles, Monitor, Smartphone, Tablet, Search, Layers } from "lucide-react";
@@ -28,7 +28,7 @@ export default function Header({
         <div>
           <div className="flex items-center gap-2">
             <h1 className="text-base font-bold tracking-tight text-zinc-100">
-              Design <span className="text-emerald-400">Vault</span>
+              Web Inspo <span className="text-emerald-400">Bank</span>
             </h1>
             <span className="rounded-full border border-emerald-500/30 bg-emerald-950/40 px-2 py-0.5 text-[10px] font-semibold text-emerald-300 font-mono">
               v1.0 Live

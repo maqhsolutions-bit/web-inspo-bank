@@ -1,9 +1,9 @@
-﻿import type { Metadata } from "next";
+import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Design Vault — Living Component & Inspiration Studio",
-  description: "Curated collection of interactive UI components, animations, navbars, and bento grids for high-craft web builds.",
+  title: "Web Inspo Bank — Living Component & Inspiration Studio",
+  description: "Curated collection of interactive UI components, animations, navbars, and bento grids for client and personal web builds.",
 };
 
 export default function RootLayout({
