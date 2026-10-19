@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React, { useState } from "react";
 import { Check, Code2, Copy, ExternalLink, Sparkles } from "lucide-react";

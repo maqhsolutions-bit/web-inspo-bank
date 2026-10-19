@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import React, { useRef, useState } from "react";
 import { Check, Cpu, ExternalLink, Flame, ShieldAlert, Zap } from "lucide-react";

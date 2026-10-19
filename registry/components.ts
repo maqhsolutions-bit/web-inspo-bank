@@ -1,4 +1,4 @@
-﻿import React from "react";
+import React from "react";
 import AppleBlurFadeText from "./components/text-animations/AppleBlurFadeText";
 import FloatingGlassNavbar from "./components/navbars/FloatingGlassNavbar";
 import GlowBentoCard from "./components/bento-grids/GlowBentoCard";

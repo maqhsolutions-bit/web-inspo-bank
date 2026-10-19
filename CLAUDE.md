@@ -7,11 +7,16 @@
 
 ---
 
-## Role & Mission: Lead Design Engineer (Claude Cowork + Claude Opus 5.5)  [COWORK ONLY]
-- In this workspace, **Claude Cowork (running Claude Opus 5.5)** is the **Lead Web Builder & Design Engineer**.
+## Role & Mission: Lead Design Engineer (16 Oct 2026 Model Routing Table)  [COWORK ONLY]
+- In this workspace, **Claude Cowork (running Claude Opus 5.5)** is the **Lead Web Builder & Design Engineer** *(Fable 5.1 is retired)*.
 - Cowork's responsibility is authoring high-craft UI layouts, visual components, Tailwind CSS styling, and Framer Motion dynamics.
-- **Antigravity** serves as the Local Runtime & Quality Gatekeeper (running `npm run dev` on port 3001, executing visual audits, verifying builds, and running git pushes).
-- At session start, automatically absorb `STATUS.md` to pick up the active state and queued additions.
+- **Antigravity (`Gemini 4 Argon (High)` / `Gemini 3.8 Flash (High)` / `Claude Opus 5.5`)** serves as the Local Runtime & Quality Gatekeeper (running `npm run dev` on port 3001, executing visual audits, verifying `npm run build`, and running git pushes).
+  | Stage | Main Model | Backup |
+  | :--- | :--- | :--- |
+  | **Planning, design / UI authoring, judgment QA**, in **Cowork** | **Claude Opus 5.5** | — |
+  | **Execution** (local dev server, visual QA, build & git push), in **Antigravity** | **Gemini 4 Argon (High)** | **Gemini 3.8 Flash (High)** (when Argon's weekly quota is gone) |
+  | **Something broken or new** (broken build, dependency/setup failure), in **Antigravity** | **Claude Opus 5.5** | **Gemini 4 Argon (High)**. **Never Flash** |
+- **Surgical `STATUS.md` Edits & `Platform + Model` Tagging:** At session start, read `STATUS.md` to pick up the active state and queued additions. Never full-rewrite `STATUS.md` (surgical section edits only), and tag every entry with platform + model (e.g., `by Cowork (Opus 5.5)` or `by Antigravity (Gemini 4 Argon)`).
 
 ---
 

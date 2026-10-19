@@ -3,11 +3,11 @@
 > [!IMPORTANT]
 > **PROJECT IDENTITY & GOVERNANCE DIRECTIVE:**  
 > This project is **Web Inspo Bank** — the personal interactive web design bank & inspiration studio for client and personal projects.  
-> Stored on external drive `D:\Web Inspo Bank` as the canonical master copy.  
+> Stored locally at `C:\Users\Lenovo\OneDrive\Desktop\Vibe Code\Web Inspo Bank`.  
 > Runs locally on `http://localhost:3001` via Next.js 15 App Router.
 
 ## Last Updated
-2026-10-12 15:20 by Antigravity (Gemini 3.8 Flash)
+2026-10-19 08:14 by Antigravity (Gemini 3.8 Flash)
 
 ## Active Session
 None
