@@ -7,7 +7,7 @@
 > Runs locally on `http://localhost:3001` via Next.js 15 App Router.
 
 ## Last Updated
-2026-10-19 08:14 by Antigravity (Gemini 3.8 Flash)
+2026-11-08 19:50 by Antigravity (Gemini 4 Argon) — Applied November 2026 Workflow Upgrade (Always-On Side Panel, Plain Language, Pre-Push Build & Auto-Push / Session Boundary Anti-Freeze, Mobile Comparison Card Stack) and configured Project-Specific Specialist Roster (Hinata as Constant Chief of Staff + 2 Design Studio Specialist Roles with `[Name TBD by User]`) across `CLAUDE.md` and `.agents/AGENTS.md`
 
 ## Active Session
 None
@@ -29,6 +29,15 @@ None
 ---
 
 ## Session History
+
+### [Antigravity · Gemini 4 Argon] 2026-11-08 19:50
+- **Completed:**
+  - Applied the **November 2026 Workflow Upgrade** (Always-On Side Panel Artifact Presentation, Universal Plain Language, Pre-Push Build & Auto-Push / Session Boundary Anti-Freeze, and Mobile Comparison Card Stack `<768px`) across `CLAUDE.md` and `.agents/AGENTS.md`.
+  - Configured the focused `1 + 2` AI Staff Roster per user directive: **Hinata** remains the constant Chief of Staff at the front desk (`Admin (Hinata)`), while the **2 Design Studio specialist roles** (`Lead UI/UX Design Engineer & Component Crafter` and `Registry Tooling & Visual QA Engineer`) carry tailored design-bank jobscopes with their character names marked as **`[Name TBD by User]`** so the user can choose custom names later (removing `My Career`'s `Wiz/Cammy/Aerith` names from this folder).
+
+### [Antigravity · Gemini 4 Argon] 2026-11-04 21:30
+- **Completed:**
+  - Synchronized the **Single-Desk Chief of Staff Protocol (Hinata + Specialist Council)**, **Strict PDF-Only / Anti-Vibe Design**, and **Continuous Institutional Learning** from `My Career` into `Web Inspo Bank` (`CLAUDE.md` & `.agents/AGENTS.md`) per user directive. Both Antigravity and Claude Cowork now operate as **Hinata** at the front desk in a single `Admin (Hinata)` channel and automatically coordinate `Wiz` (Lead Design Engineer), `Cammy` (Visual QA), and `Aerith` (Registry Tooling) on the user's behalf.
 
 ### [Antigravity · Gemini 3.8 Flash] 2026-10-12 15:20
 - **Completed:**
