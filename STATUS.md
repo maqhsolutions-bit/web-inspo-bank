@@ -7,15 +7,24 @@
 > Runs locally on `http://localhost:3001` via Next.js 15 App Router.
 
 ## Last Updated
-2026-11-10 04:05 by Antigravity (Gemini 3.8 Flash) — Created GitHub repository `maqhsolutions-bit/web-inspo-bank`, pushed `origin/main` complete with all components, and linked remote.
+2026-11-10 04:10 by Antigravity (Gemini 3.8 Flash) — Prepared Claude Cowork Handoff for 1-click Vercel Deployment via Claude in Chrome.
 
 ## Active Session
-GitHub repo live at `https://github.com/maqhsolutions-bit/web-inspo-bank` | Ready for Vercel Import.
+COWORK HANDOFF (Claude in Chrome): Deploy `maqhsolutions-bit/web-inspo-bank` on Vercel at `https://vercel.com/new`.
 
 ## Active Branch
 `main`
 
 ## Cross-Platform Open Items
+
+- **[COWORK ACTION ITEM — Claude in Chrome Vercel Deployment]:**
+  - **Context:** Antigravity has verified `npm run build` (zero errors), initialized Git identity, created the canonical GitHub repository, and pushed `origin/main` to:  
+    `https://github.com/maqhsolutions-bit/web-inspo-bank`
+  - **Action Required for Cowork:** Using the user's authenticated Chrome session via `claude-in-chrome`:
+    1. Navigate to the user's active Vercel tab or `https://vercel.com/new`.
+    2. Click the white **[Import]** button next to `maqhsolutions-bit/web-inspo-bank` (or paste the repository URL).
+    3. Click **[Deploy]** (leave default Next.js framework settings).
+    4. Once the build finishes, copy the live production URL (e.g., `https://web-inspo-bank.vercel.app`) and log it in `STATUS.md`.
 
 - **[ROLE & DIVISION OF LABOR — Cowork & Antigravity]:**
   - **Claude Cowork (Claude Opus 5.5):** Lead Design Engineer & Component Crafter. When you share a website reference, screenshot, or video, Cowork crafts the self-contained component in `registry/components/[category]/` adhering to Bakaus "Quieter UI" and Kowalski tactile micro-interaction standards.
