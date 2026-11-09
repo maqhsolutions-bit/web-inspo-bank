@@ -86,7 +86,7 @@ export default function Sidebar({
           <span>Tri-Model Workflow</span>
         </div>
         <p className="mt-2 text-[11px] leading-relaxed text-zinc-400">
-          Click <strong className="text-zinc-200">"Copy for AI"</strong> on any element card to generate a calibrated prompt for Claude Cowork (Fable 5.1) or Antigravity!
+          Click <strong className="text-zinc-200">"Copy for AI"</strong> on any element card to generate a calibrated prompt for Claude Cowork (Opus 5.5) or Antigravity!
         </p>
       </div>
     </aside>

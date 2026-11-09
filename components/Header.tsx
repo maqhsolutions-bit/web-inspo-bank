@@ -21,16 +21,16 @@ export default function Header({
   return (
     <header className="sticky top-0 z-30 flex flex-col gap-4 border-b border-zinc-800/80 bg-zinc-950/80 px-6 py-4 backdrop-blur-xl sm:flex-row sm:items-center sm:justify-between">
       {/* Brand & Stats */}
-      <div className="flex items-center gap-3">
-        <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-tr from-emerald-500 to-teal-400 text-zinc-950 shadow-md">
+      <div className="flex shrink-0 items-center gap-3">
+        <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-gradient-to-tr from-emerald-500 to-teal-400 text-zinc-950 shadow-md">
           <Layers className="h-5 w-5" />
         </div>
         <div>
           <div className="flex items-center gap-2">
-            <h1 className="text-base font-bold tracking-tight text-zinc-100">
+            <h1 className="whitespace-nowrap text-base font-bold tracking-tight text-zinc-100">
               Web Inspo <span className="text-emerald-400">Bank</span>
             </h1>
-            <span className="rounded-full border border-emerald-500/30 bg-emerald-950/40 px-2 py-0.5 text-[10px] font-semibold text-emerald-300 font-mono">
+            <span className="shrink-0 whitespace-nowrap rounded-full border border-emerald-500/30 bg-emerald-950/40 px-2 py-0.5 text-[10px] font-semibold text-emerald-300 font-mono">
               v1.0 Live
             </span>
           </div>
